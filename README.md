@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Arudi Valentine</h1>
 <h3 align="center">Software Engineer | Innovator | Problem-Solver | Tech Enthusiast</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
+<div align="center"> <img src="https://github.com/arudivalentine/arudivalentine/blob/main/AV_LinkedIn%20Banner.png"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arudivalentine&label=Profile%20views&color=0e75b6&style=flat" alt="arudivalentine" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arudi_valentine" target="blank"><img src="https://img.shields.io/twitter/follow/arudi_valentine?logo=twitter&style=for-the-badge" alt="arudi_valentine" /></a> </p>
