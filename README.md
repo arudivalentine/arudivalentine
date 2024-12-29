@@ -1,51 +1,101 @@
-<h1 align="center">Hey Everyone 👋, I'm Arudi Valentine</h1>
+<div align="center">
 
-<div align="center"> <img src="https://github.com/arudivalentine/arudivalentine/blob/main/AV_LinkedIn%20Banner.png"> </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arudivalentine&label=Profile%20views&color=0e75b6&style=flat" alt="arudivalentine" /> </p>
-<h3 align="center">Software Engineer | Innovator | Problem-Solver | Tech Enthusiast</h3>
-<p align="left"> <a href="https://twitter.com/arudi_valentine" target="blank"><img src="https://img.shields.io/twitter/follow/arudi_valentine?logo=twitter&style=for-the-badge" alt="arudi_valentine" /></a> </p>
+<!-- Animated Header with Dynamic Effects -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arudi%20Valentine&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-- 👨‍💻 All of my projects are available at [arudivalentine.com](arudivalentine.com)
+<!-- Animated Subtitle -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=440&height=45&lines=Software+Engineer;Innovator;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /></a>
 
-- 📝 I regularly write articles on [https://medium.com/@arudivalentine](https://medium.com/@arudivalentine)
+<!-- Animated Banner -->
+<div style="background: #1a1b27; border-radius: 15px; overflow: hidden; margin: 20px 0;">
+  <img src="https://github.com/arudivalentine/arudivalentine/blob/main/AV_LinkedIn%20Banner.png" alt="banner" style="width: 100%; height: auto; transform: scale(1.02);">
+</div>
 
-- 💬 What's New? **JavaScript**
+<!-- Animated Skills Representation -->
+<h2>💫 Skills & Expertise</h2>
 
-- 📫 How to reach me **info@arudivalentine.com**
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arudivalentine&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+    <td width="50%">
+      <!-- Circular Progress Bars -->
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" title="React">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="48" title="TypeScript">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" title="Python">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" title="NodeJS">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
+        </br>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" title="Git">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="48" title="AWS">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" title="Docker">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="48" title="MongoDB">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" width="48" title="Redux">
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences [arudivalentine.com](arudivalentine.com)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.to/arudivalentine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/arudivalentine" height="30" width="40" /></a>
-<a href="https://twitter.com/arudi_valentine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arudi_valentine" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arudivalentine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arudivalentine" height="30" width="40" /></a>
-<a href="https://fb.com/arudivalentine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arudivalentine" height="30" width="40" /></a>
-<a href="https://instagram.com/arudivalentine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arudivalentine/" height="30" width="40" /></a>
-<a href="https://medium.com/@arudivalentine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arudivalentine" height="30" width="40" /></a>
-<a href="https://discord.gg/#3112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3112" height="30" width="40" /></a>
+<!-- Animated Stats Cards -->
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=arudivalentine&cc=000&tc=fff&ic=fff&bc=000">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- Modern Project Showcase -->
+<h2>🚀 Featured Projects</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arudivalentine&show_icons=true&locale=en&layout=compact" alt="arudivalentine" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arudivalentine&repo=your-repo-1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arudivalentine&repo=your-repo-2&theme=tokyonight&hide_border=true" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arudivalentine&show_icons=true&locale=en" alt="arudivalentine" /></p>
+<!-- Animated Metrics Section -->
+<h2>📊 Contribution Metrics</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arudivalentine&" alt="arudivalentine" /></p>
-<!--
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/arudivalentine/arudivalentine/blob/output/github-contribution-grid-snake.svg)
--->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arudivalentine&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arudivalentine&theme=tokyonight" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arudivalentine&theme=tokyonight" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arudivalentine&theme=tokyonight" width="31%" />
+</div>
+
+<!-- Spotify Integration -->
+<h2>🎵 Vibing to</h2>
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=arudivalentine&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<!-- Connect Section with Animated Icons -->
+<h2>🤝 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/arudivalentine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/arudi_valentine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@arudivalentine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="mailto:info@arudivalentine.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+<!-- Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arudivalentine&custom_title=Arudi's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%">
+
+<!-- Profile Views Counter with Custom Styling -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/arudivalentine/count.svg" alt="Profile Views"/>
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
