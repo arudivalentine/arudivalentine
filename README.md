@@ -43,14 +43,6 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=arudivalentine&cc=000&tc=fff&ic=fff&bc=000">
 </p>
 
-<!-- Modern Project Showcase -->
-<h2>🚀 Featured Projects</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arudivalentine&repo=your-repo-1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arudivalentine&repo=your-repo-2&theme=tokyonight&hide_border=true" />
-</div>
-
 <!-- Animated Metrics Section -->
 <h2>📊 Contribution Metrics</h2>
 
