@@ -1,93 +1,146 @@
 <div align="center">
 
-<!-- Animated Header with Dynamic Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arudi%20Valentine&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+<!-- HEADER: Matrix/Cyber Style -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:000000&height=3&section=header" />
 
-<!-- Animated Subtitle -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=440&height=45&lines=Software+Engineer;Innovator;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:003300,60:004d00,100:00ff41&height=220&section=header&text=%5B%20ARUDI%20VALENTINE%20%5D&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20ARCHITECT%20%2F%2F%20PROBLEM%20SOLVER&descSize=13&descAlignY=62&descAlign=50" />
 
-<!-- Animated Banner -->
-<div style="background: #1a1b27; border-radius: 15px; overflow: hidden; margin: 20px 0;">
-  <img src="https://github.com/arudivalentine/arudivalentine/blob/main/AV_LinkedIn%20Banner.png" alt="banner" style="width: 100%; height: auto; transform: scale(1.02);">
-</div>
+<!-- Blinking cursor / typing effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=40&lines=%3E+Initializing+profile...+%5BDONE%5D;%3E+Loading+skill+set...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+Welcome+to+my+terminal%2C+stranger.;%3E+sudo+cat+about_me.txt;%3E+Building+systems+that+don%27t+break.;%3E+Deploying+to+prod...+%5BSUCCESS%5D" alt="Typing SVG" />
+</a>
 
-<!-- Animated Skills Representation -->
-<h2>💫 Skills & Expertise</h2>
+<br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arudivalentine&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-    <td width="50%">
-      <!-- Circular Progress Bars -->
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48" title="React">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="48" title="TypeScript">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" title="Python">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" title="NodeJS">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
-        </br>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" title="Git">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="48" title="AWS">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="48" title="Docker">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="48" title="MongoDB">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" width="48" title="Redux">
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 
-<!-- Animated Stats Cards -->
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=arudivalentine&cc=000&tc=fff&ic=fff&bc=000">
-</p>
+<!-- STATUS BADGES - TERMINAL STYLE -->
+```
+╔══════════════════════════════════════════════════════════╗
+║              SYSTEM STATUS: OPERATIONAL                  ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<!-- Animated Metrics Section -->
-<h2>📊 Contribution Metrics</h2>
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=00ff41)
+![Mode](https://img.shields.io/badge/MODE-ENGINEER-00ccff?style=flat-square&labelColor=0d0d0d)
+![Focus](https://img.shields.io/badge/FOCUS-BUILDING-ff6600?style=flat-square&labelColor=0d0d0d)
+![Coffee](https://img.shields.io/badge/COFFEE-REQUIRED-c0392b?style=flat-square&labelColor=0d0d0d&logo=buy-me-a-coffee&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arudivalentine&theme=tokyonight" width="100%" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arudivalentine&theme=tokyonight" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arudivalentine&theme=tokyonight" width="31%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arudivalentine&theme=tokyonight" width="31%" />
-</div>
+---
 
-<!-- Spotify Integration -->
-<h2>🎵 Vibing to</h2>
+<!-- ABOUT SECTION - TERMINAL WINDOW -->
+## `> whoami`
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=arudivalentine&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" style="border-radius:10px; border: 1px solid #00ff41"/>
 
-<!-- Connect Section with Animated Icons -->
-<h2>🤝 Let's Connect</h2>
+```bash
+┌─[arudi@valentine]─[~]
+└──╼ $ cat about_me.txt
+
+  Name     : Arudi Valentine
+  Role     : Software Engineer
+  Location : Planet Earth
+  Mission  : Turn coffee into scalable systems
+  Status   : Always building something...
+
+  Interests:
+    [✓] Clean Architecture
+    [✓] Scalable Systems
+    [✓] Open Source Contribution
+    [✓] Breaking & fixing things
+```
+
+<br clear="right"/>
+
+---
+
+## `> ls -la /skills`
 
 <div align="center">
-  <a href="https://linkedin.com/in/arudivalentine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/arudi_valentine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@arudivalentine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="mailto:info@arudivalentine.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+
+```
+drwxr-xr-x  FRONTEND
+drwxr-xr-x  BACKEND
+drwxr-xr-x  CLOUD
+drwxr-xr-x  DEVOPS
+```
+
 </div>
 
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arudivalentine&custom_title=Arudi's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%">
-
-<!-- Profile Views Counter with Custom Styling -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/arudivalentine/count.svg" alt="Profile Views"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,python,nodejs,firebase,redux&theme=dark&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,mongodb,linux,bash&theme=dark&perline=6" />
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<br/>
+
+---
+
+## `> cat /proc/github_stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arudivalentine&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ccff&text_color=cccccc&ring_color=00ff41" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arudivalentine&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arudivalentine&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=00ccff&currStreakLabel=00ff41&sideLabels=cccccc&dates=555555&border=00ff4122" width="60%"/>
+</div>
+
+<br/>
+
+---
+
+## `> tail -f /var/log/commits.log`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arudivalentine&custom_title=%5B+COMMIT+ACTIVITY+LOG+%5D&bg_color=0d0d0d&color=00ff41&line=00cc33&point=00ffff&area=true&area_color=003300&hide_border=true&radius=4" width="100%">
+
+---
+
+## `> ping social_networks --all`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/arudivalentine)
+[![Twitter](https://img.shields.io/badge/Twitter-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/arudi_valentine)
+[![Medium](https://img.shields.io/badge/Medium-READ-00ab6c?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d0d0d)](https://medium.com/@arudivalentine)
+[![Gmail](https://img.shields.io/badge/Gmail-MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:info@arudivalentine.com)
+
+</div>
+
+---
+
+## `> spotify --now-playing`
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=arudivalentine&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d0d&interchange=false&bar_color=00ff41&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     "The quieter you become, the more you can hear."     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<!-- Profile visitor counter -->
+![Visitors](https://profile-counter.glitch.me/arudivalentine/count.svg)
+
+<br/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:000000&height=3&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,80:003300,100:00ff41&height=100&section=footer&fontColor=00ff41" />
 
 </div>
